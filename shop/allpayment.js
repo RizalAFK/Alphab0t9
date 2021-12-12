@@ -1,27 +1,27 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY ZEEY
 
 *さ BANK*
 1. BRI 
-	ㅁ 5074-01-003141-52-8
-		• R***A*DI
+	ㅁ -
+		• zeey
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ - 
+		• zeey
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ - 
+		• zeey
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ - 
+		• zeey
 
 *さ PULSA*
 1. SMARTFREN
-	ㅁ 0887 4350 47326
+	ㅁ - 
 2. TELKOMSEL
-	ㅁ 0821 9311 5723
+	ㅁ - 
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
